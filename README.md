@@ -23,7 +23,7 @@ Welcome to the Notepad project in Java! This simple text editor is designed and 
    - Import the project into your favorite Java IDE (Eclipse, IntelliJ, etc.).
 
 3. **Compile and Run:**
-   - Compile and run the `NotepadMain.java` file to launch the Notepad application.
+   - Compile and run the `notepro.java` file to launch the Notepad application.
 
 ## Dependencies
 
